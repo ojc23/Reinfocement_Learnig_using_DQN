@@ -1,4 +1,4 @@
-# Reinfocement_Learnig_using_DQN
+# Reinforcement_Learnig_using_DQN
 Using DQN alogorith to train our RL model
 
 source:***gym***
